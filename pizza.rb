@@ -29,4 +29,3 @@ print slice
 choose_slice = gets
 print "you have ordered" + choose_crust +choose_slice + choose_cheese + choose_veggies + choose_meat + choose_sauce
 
-

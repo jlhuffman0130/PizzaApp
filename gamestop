@@ -1,0 +1,5 @@
+print = "Welcome to Game Stop"
+print = "What game system do you have"
+
+system = ["ps3", "ps4", "xbox360", "xobx one"]
+
